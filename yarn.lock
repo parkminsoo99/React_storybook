@@ -14422,7 +14422,7 @@ store2@^2.7.1:
   resolved "https://registry.yarnpkg.com/store2/-/store2-2.12.0.tgz#e1f1b7e1a59b6083b2596a8d067f6ee88fd4d3cf"
   integrity sha512-7t+/wpKLanLzSnQPX8WAcuLCCeuSHoWdQuh9SB3xD0kNOM38DNf+0Oa+wmvxmYueRzkmh6IcdKFtvTa+ecgPDw==
 
-storybook-addon-jsx@^7.1.13:
+storybook-addon-jsx@^7.3.4:
   version "7.3.4"
   resolved "https://registry.yarnpkg.com/storybook-addon-jsx/-/storybook-addon-jsx-7.3.4.tgz#fdd0c47091fe51a86ac52c820bf9837ab45a6711"
   integrity sha512-15bBSk4zl6yuIKWbJdQbl3MGbABzjhJf5cFx657nF8OmoOlXMpsz5+lxfc3c+AyRvUZxdJOXkvtRqBTmQ0mouQ==
