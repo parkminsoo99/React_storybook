@@ -15,7 +15,7 @@ class Button extends PureComponent {
 					secondary && styles.secondary,
 					primary && styles.primary,
 				)}
-			onclick={onPress}
+			onClick={onPress}
 			>
 			{children}
 		</button>
