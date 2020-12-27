@@ -7,5 +7,7 @@ function isLoading(props){
 }
 
 function LoadingButton(props) {
-	return <Button disabled>로딩 중 </Button>
+	return <Button disabled>로딩 중 </Button>;
 }
+
+export default branch(isLoading, () => LoadingButton,)(Button);
