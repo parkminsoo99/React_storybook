@@ -5,7 +5,7 @@ export default function(loadingMessage='로딩 중'){
 	const { displayName, name : componentName} = WrappedComponent;
 	const wrappedComponentName = displayName || componentName;
 	
-	function WithLoading({isLoading, ...otherProps}){
+	function WithLoading({isLoading, ...props}){
 		if(isLoading) return loadingMessage;
 		return (
 		<WrappedComponent {...props} />);}
